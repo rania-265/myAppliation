@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="dialogTitle">Photo</string>
+    <string name="choose">Choose!</string>
+    <string name="camera">openCamera</string>
+    <string name="take_a_photo">take a photo</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="camerapicture">CameraPicture</string>
+    <string name="galleryphoto">GalleryPhoto</string>
+    <string name="camerPicture">cameraPhoto</string>
+    <string name="delete">Delete</string>
+    <string name="Deleting">delete</string>
+    <string name="sureDeleting">Are Yoy Sure You Want Delete Image</string>
+    <string name="canceling">cancel</string>
+</resources>
